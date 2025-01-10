@@ -1,7 +1,7 @@
 # servicebus.http
 This small project is intended to exemplify the process of connecting to service bus via HTTP requests and sending/consuming messages.
 
-By using the [sbClient](./sbClient.js) object, you can send and receive messages through HTTP with ServiceBus.
+By using the [servicebus-client](./servicebus-client.js) object, you can send and receive messages through HTTP with ServiceBus.
 The main intention here is being able to send and receive messages from Azure ServiceBus without the need for any additional package or [SDK](https://github.com/Azure/azure-sdk-for-js).
 
 ## Connection String
