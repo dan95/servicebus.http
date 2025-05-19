@@ -46,7 +46,7 @@ const getHmac256Digest = async (secret, value) => {
 
 ## servicebus.receiver.js
 
-This file is an example on how to receive messages. Please not that this way of receiving messages is not optimal and should only be used as a fast-forward workaround.
+This file is an example on how to receive messages. Please note that this way of receiving messages is not optimal and should only be used as a straightforward workaround.
 
 ## servicebus.sender.js
 
